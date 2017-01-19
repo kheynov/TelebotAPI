@@ -1,5 +1,5 @@
 import telebot, time, random
-token = '329245079:AAGxPg1Fa20n7Wu_RLv1MYlB8V7mAwUhDgk'
+token = 'Your token'
 bot = telebot.TeleBot(token)
 lastboot = time.asctime()
 
