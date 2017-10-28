@@ -1,0 +1,21 @@
+{
+	"token": "329245079:AAGxPg1Fa20n7Wu_RLv1MYlB8V7mAwUhDgk",
+	"stickers": [
+		"BQADAgADpQkAApI2owt3UnXTSkF3uwI",
+		"BQADAgADswsAApI2owtg1HAfAvgjIgI",
+		"BQADAgADTQADyJsDAAG6DcSDcxpKBAI",
+		"BQADAgAD-QEAAtT-vgjZ7A86uU0H9gI",
+		"BQADAgADZQADyJsDAAEoe0wLx8pmqAI",
+		"BQADAgADaQADyJsDAAG3NoF1cpmzhQI",
+		"BQADAgADOAADyIsGAAE7re09I3hMQwI"
+	],
+	"unknown_comm": [
+		"CAADAgADHwEAAmhNkQRD3GbHm1vNkQI",
+		"CAADAgADGAEAAmhNkQS0i1hVoTEeeQI",
+		"AADBAADUQIAAuJy2QABuYCggZSPXE8C",
+		"CAADAgADWwADyJsDAAHhXqhXmvjy3wI",
+		"CAADAgAD0wkAApI2owuOJCRdQK8knQI"
+	],
+	"help_commands": "/time - Local time, /weather - get weather in Novosibirsk, /send_sticker - Send random sticker.",
+	"Accepted_id": ["326536304"]
+}
